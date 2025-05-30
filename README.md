@@ -16,4 +16,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=vaishnav2947&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3177417" style='border:none;'></iframe>
